@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<img height="300" src=https://cdn.dribbble.com/users/2131993/screenshots/4948736/media/421d4ed2f3d23c73d64d20963f61f422.gif>
+
 <!--
 **kinzhi/kinzhi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
